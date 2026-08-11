@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "hucre": "^1.0.0"
+  }
+}
